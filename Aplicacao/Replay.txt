@@ -25,7 +25,7 @@ Jogador 1 Rafael esta na 15° posição.
 Jogador 2 Leonardo jogou os dados
 Jogador 2 Leonardo andou 2 casa(s).
 Jogador 2 Leonardo esta na 11° posição.
-Jogador 1 Rafael jogou os dados
+Jogador 1 Rafael jogou os dados 
 Jogador 1 Rafael andou 6 casa(s).
 Jogador 1 Rafael esta na 21° posição.
 Jogador 2 Leonardo jogou os dados

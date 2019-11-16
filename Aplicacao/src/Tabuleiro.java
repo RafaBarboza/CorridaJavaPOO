@@ -1,6 +1,6 @@
 /**
  * 
- * @author Rafael Barboza
+ * @author Rafael Barboza 
  * Interface tabuleiro que o jogo deve implementar.
  *
  */

@@ -7,7 +7,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * 
+ *  
  * @author Rafael Barboza
  * Classe jogo que implementa a Interface Tabuleiro.
  *

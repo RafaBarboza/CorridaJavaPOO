@@ -1,6 +1,6 @@
 /**
  * 
- * @author Rafael Barboza
+ * @author Rafael Barboza 
  * Classe que controi o menu da aplicação.
  *
  */

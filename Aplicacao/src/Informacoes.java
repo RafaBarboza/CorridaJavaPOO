@@ -1,5 +1,5 @@
 /**
- * 
+ *  
  * @author Rafael Barboza
  * Classe abstrata que não pode ser instanciada
  * servindo como classe pai com atributos estáticos.

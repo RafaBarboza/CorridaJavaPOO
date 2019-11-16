@@ -6,7 +6,7 @@
  */
 public class Ajuda extends Informacoes{
 	
-	/**
+	/** 
 	 * Retorna dados dos atributos fixos da classe pai
 	 * sobre as regras do jogo.
 	 */
