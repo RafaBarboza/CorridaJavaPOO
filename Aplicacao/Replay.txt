@@ -1,0 +1,108 @@
+Iniciando o jogo ...
+Jogador 1 Escolheu o nome: Danilo
+Jogador 1 Escolheu o simbolo: D
+Jogador 2 Escolheu o nome: Equipe
+Jogador 2 Escolheu o simbolo: C
+Jogador 1 Escolheu : CARA
+Jogador 1 Danilo joga primeiro!
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 7 casa(s).
+Jogador 1 Danilo caiu na casa especial e voltou 3 casa(s).
+Jogador 1 Danilo esta na 4° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe tirou dois dados iguais Dado 1: 2 e Dado 2: 2. E tem direto a uma jogada bônus
+Jogador 2 Equipe andou 10 casa(s).
+Jogador 2 Equipe esta na 10° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 6 casa(s).
+Jogador 1 Danilo esta na 10° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 6 casa(s).
+Jogador 2 Equipe esta na 16° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo tirou dois dados iguais Dado 1: 5 e Dado 2: 5. E tem direto a uma jogada bônus
+Jogador 1 Danilo andou 15 casa(s).
+Jogador 1 Danilo esta na 25° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 5 casa(s).
+Jogador 2 Equipe esta na 21° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 6 casa(s).
+Jogador 1 Danilo esta na 31° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 9 casa(s).
+Jogador 2 Equipe caiu na casa especial e voltou 3 casa(s).
+Jogador 2 Equipe esta na 27° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 4 casa(s).
+Jogador 1 Danilo esta na 35° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe tirou dois dados iguais Dado 1: 3 e Dado 2: 3. E tem direto a uma jogada bônus
+Jogador 2 Equipe andou 8 casa(s).
+Jogador 2 Equipe esta na 35° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo tirou dois dados iguais Dado 1: 3 e Dado 2: 3. E tem direto a uma jogada bônus
+Jogador 1 Danilo andou 11 casa(s).
+Jogador 1 Danilo esta na 46° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 5 casa(s).
+Jogador 2 Equipe caiu na casa especial e voltou 3 casa(s).
+Jogador 2 Equipe esta na 37° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo tirou dois dados iguais Dado 1: 2 e Dado 2: 2. E tem direto a uma jogada bônus
+Jogador 1 Danilo andou 10 casa(s).
+Jogador 1 Danilo esta na 56° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 7 casa(s).
+Jogador 2 Equipe esta na 44° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 4 casa(s).
+Jogador 1 Danilo esta na 60° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 8 casa(s).
+Jogador 2 Equipe esta na 52° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo tirou dois dados iguais Dado 1: 3 e Dado 2: 3. E tem direto a uma jogada bônus
+Jogador 1 Danilo andou 11 casa(s).
+Jogador 1 Danilo caiu na casa especial e voltou 3 casa(s).
+Jogador 1 Danilo esta na 68° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 7 casa(s).
+Jogador 2 Equipe esta na 59° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 5 casa(s).
+Jogador 1 Danilo esta na 73° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 3 casa(s).
+Jogador 2 Equipe caiu na casa especial e voltou 3 casa(s).
+Jogador 2 Equipe esta na 59° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 5 casa(s).
+Jogador 1 Danilo esta na 78° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 8 casa(s).
+Jogador 2 Equipe caiu na casa especial e voltou 3 casa(s).
+Jogador 2 Equipe esta na 64° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 4 casa(s).
+Jogador 1 Danilo esta na 82° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 4 casa(s).
+Jogador 2 Equipe esta na 68° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 7 casa(s).
+Jogador 1 Danilo esta na 89° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 10 casa(s).
+Jogador 2 Equipe esta na 78° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 6 casa(s).
+Jogador 1 Danilo esta na 95° posição.
+Jogador 2 Equipe jogou os dados
+Jogador 2 Equipe andou 5 casa(s).
+Jogador 2 Equipe caiu na casa especial e voltou 3 casa(s).
+Jogador 2 Equipe esta na 80° posição.
+Jogador 1 Danilo jogou os dados
+Jogador 1 Danilo andou 5 casa(s).
+Jogador 1 Danilo andou 5 casa(s).
+Jogador 1 Danilo Venceu a partida!!!!.
