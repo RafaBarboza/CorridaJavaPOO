@@ -1,6 +1,6 @@
 /**
  * 
- * @author Equipe
+ * @author Rafael Barboza
  * Classe abstrata que não pode ser instanciada
  * servindo como classe pai com atributos estáticos.
  *
@@ -8,11 +8,7 @@
 public abstract class Informacoes {
 	
 	protected static final String ID_AUTOR = "Rafael Barboza";
-	protected static final String ID_AUTOR_DOIS = "Leonardo Coslopi Batista";
-	protected static final String ID_AUTOR_TRES = "Leandro Gabriel Paranhos";
-	protected static final String ID_RA_UM = "142844412002";
-	protected static final String ID_RA_DOIS = "142790312002";
-	protected static final String ID_RA_TRES = "142774412002";
+	protected static final String ID_RA_UM = "12345678910";
 	protected static final String CURSO = "Programação Orientada à Objetos";
 	
 	protected static final String AJUDA_UM = "• O jogador 1 escolhe cara ou coroa e se ganhar o sorteio começa jogando, caso\r\n" + 

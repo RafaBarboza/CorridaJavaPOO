@@ -4,7 +4,7 @@ import java.io.FileReader;
 
 /**
  * Classe responsável por ler o arquivo do replay.
- * @author Equipe
+ * @author Rafael Barboza
  *
  */
 public class Replay {

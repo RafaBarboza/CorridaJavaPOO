@@ -1,6 +1,6 @@
 /**
  * 
- * @author Equipe
+ * @author Rafael Barboza
  * Classe ajuda, herda de informações e implementa o método info.
  *
  */
@@ -14,8 +14,6 @@ public class Autores extends Informacoes{
 	public void info() {
 		System.out.println("Autores:");
 		System.out.println(ID_AUTOR + ": " + ID_RA_UM);
-		System.out.println(ID_AUTOR_DOIS + ": " + ID_RA_DOIS);
-		System.out.println(ID_AUTOR_TRES + ": " + ID_RA_TRES);
 		System.out.println(CURSO);
 		System.out.println();
 	}

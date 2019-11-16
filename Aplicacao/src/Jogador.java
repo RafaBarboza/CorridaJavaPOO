@@ -1,6 +1,6 @@
 /**
  * 
- * @author Equipe
+ * @author Rafael Barboza
  * Classe que representa um jogador com atributos privados
  * acessados por métodos getters e setters.
  *

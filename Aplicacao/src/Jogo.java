@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author Equipe
+ * @author Rafael Barboza
  * Classe jogo que implementa a Interface Tabuleiro.
  *
  */

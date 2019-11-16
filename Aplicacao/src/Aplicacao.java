@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author equipe
+ * @author Rafael Barboza
  * Aplicação principal responsável por carregar o menu de opções
  * até que o jogador digite a opção de sair.
  */

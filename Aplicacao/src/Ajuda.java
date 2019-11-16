@@ -1,6 +1,6 @@
 /**
  * 
- * @author Equipe
+ * @author Rafael Barboza
  * Classe ajuda, herda de informações e implementa o método info.
  *
  */
